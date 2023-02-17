@@ -1,0 +1,32 @@
+{
+  "name": "GMBaseIDELanguages",
+  "bundle_version": "1.0",
+  "bundle_description": "Base IDE localisations",
+  "required": false,
+  "plugins": [
+    {
+      "plugin_name": "GMBaseIDELanguages",
+      "localised_name": "GMBaseIDELanguages_localisation",
+      "plugin_version": "1.0",
+      "type": "Language",
+      "plugin_data": {
+        "languages": [
+            { "Chinese": "Languages/Chinese/GMBaseIDE_Chinese.csv" },
+            { "English": "Languages/English/GMBaseIDE_English.csv" },
+            { "French": "Languages/French/GMBaseIDE_French.csv" },
+            { "German": "Languages/German/GMBaseIDE_German.csv" },
+            { "Italian": "Languages/Italian/GMBaseIDE_Italian.csv" },
+            { "Japanese": "Languages/Japanese/GMBaseIDE_Japanese.csv" },
+            { "Korean": "Languages/Korean/GMBaseIDE_Korean.csv" },
+            { "Polish": "Languages/Polish/GMBaseIDE_Polish.csv" },
+            { "PortugueseBrazilian": "Languages/PortugueseBrazilian/GMBaseIDE_PortugueseBrazilian.csv" },
+            { "Russian": "Languages/Russian/GMBaseIDE_Russian.csv" },
+            { "Spanish": "Languages/Spanish/GMBaseIDE_Spanish.csv" }
+        ]
+      },
+      "description": "Base IDE localisations",
+      "required_assemblies": [],
+      "dependencies": []
+    }
+  ]
+}
